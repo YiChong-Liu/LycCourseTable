@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">一翀课程表</string>
+
+    <string name="dayOfWeek">周</string>
+    <string name="single_week">单周</string>
+    <string name="double_week">双周</string>
+    <string name="select_dialog">选择</string>
+    <string name="photo_select">从相册中选择</string>
+    <string name="select_all">全选</string>
+    <string name="delete">删除</string>
+    <string name="menu_config">设置</string>
+    <string name="menu_share">分享</string>
+    <string name="transparent">透明度</string>
+    <string name="bg_img">背景图片</string>
+    <string name="menu_update">检查更新</string>
+
+    <string name="menu_apply">应用</string>
+
+    <!--    CourseDetailsActivity ActionBar标题-->
+    <string name="course_details">课程详情</string>
+    <!--    EditActivity ActionBar标题-->
+    <string name="course_edit">编辑课程</string>
+
+    <string name="day_of_week">第%1$d周</string>
+    <string name="week_of_term_format">%1$s [%2$s]</string>
+
+    <!--    节数-->
+    <string name="schedule_section">%1$s %2$d-%3$d节</string>
+
+
+    <!--    MainActivity-->
+
+    <string name="course_name">课名</string>
+    <string name="classroom">教室</string>
+    <string name="week_of_term">周数</string>
+    <string name="classLength">节数</string>
+    <string name="teacher">老师</string>
+
+    <string name="mon">周一</string>
+    <string name="tues">周二</string>
+    <string name="wed">周三</string>
+    <string name="thur">周四</string>
+    <string name="fri">周五</string>
+    <string name="sat">周六</string>
+    <string name="sun">周日</string>
+
+
+    <string name="menu_append">导入Excel</string>
+    <string name="menu_set_current_week">修改当前周数</string>
+    <string name="menu_append_class">添加课程</string>
+    <string name="menu_import">从教务系统导入</string>
+
+    <!--    EditActivity-->
+    <string name="edit_course_btn">编辑</string>
+    <string name="edit_text_hint">未输入</string>
+    <string name="menu_save">保存</string>
+    <string name="weekOptions">单双</string>
+    <string name="week_of_term_example">示例:1,7,9,11&#8211;17,19(英文标点)</string>
+
+
+    <!--    LoginActivity-->
+    <string name="prompt_id">学号</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="hint_random_code">验证码</string>
+    <string name="title_activity_login">教务系统登录</string>
+
+    <string name="hint_start_time">开始时间</string>
+    <string name="hint_end_time">结束时间</string>
+
+    <string name="menu_set_time">设置时间</string>
+    <string name="menu_delete_time">删除所有时间</string>
+
+    <string name="cancel">取消</string>
+    <string name="yes">确定</string>
+    <string name="select_week_of_term">选择周数</string>
+
+    <string name="delete_calendar_event">清除所有日程</string>
+
+    <string name="select_college">选择学校</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_set_alarm_clock">添加闹钟</string>
+    <string name="alarm_reminder">翀哥提醒你：记得设一个闹钟，不要迟到哦~</string>
+    <string name="alarm_title">闹钟时间：</string>
+    <string name="set_the_alarm">设置时间</string>
+    <string name="reminder_title">下次提醒的时间为：</string>
+    <string name="delete_alarm">删除闹钟</string>
+</resources>
